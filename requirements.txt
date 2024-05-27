@@ -1,0 +1,10 @@
+datasets
+weaviate-client
+langchain
+langsmith 
+torch
+transformers
+huggingface-hub
+jsonl2json
+tdqm
+pymongo
